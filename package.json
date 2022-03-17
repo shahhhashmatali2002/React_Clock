@@ -1,5 +1,6 @@
 {
   "name": "clockapp",
+  "homepage": "http://shahhhashmatali2002.github.io/React_Clock",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
